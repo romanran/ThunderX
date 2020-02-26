@@ -75,3 +75,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/AutomotiveMaterials/
+
+Content/AnimStarterPack/
+
+Content/UE4_Mannequin_Mobile/
+
+Content/MS_SnowEss/
+
+AutomotiveMaterials.png
